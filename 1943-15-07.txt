@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 SOMETHIGN GOOD!!!
+=======
+something has been written!
+>>>>>>> 6dce1a55693a5e395e8add6b3bd5473d9ba8db1c
